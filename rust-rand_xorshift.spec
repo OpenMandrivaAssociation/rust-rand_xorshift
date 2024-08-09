@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.0
-Release:        2
+Release:        3
 Summary:        Xorshift random number generator
 
 # Upstream license specification: MIT/Apache-2.0
